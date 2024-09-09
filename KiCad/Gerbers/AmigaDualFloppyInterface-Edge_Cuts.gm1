@@ -1,0 +1,25 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,8.0.4*
+G04 #@! TF.CreationDate,2024-09-09T13:58:12+01:00*
+G04 #@! TF.ProjectId,Amiga_internal_floppy_adapter,416d6967-615f-4696-9e74-65726e616c5f,1.0*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Profile,NP*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.4) date 2024-09-09 13:58:12*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 #@! TA.AperFunction,Profile*
+%ADD10C,0.050000*%
+G04 #@! TD*
+G04 APERTURE END LIST*
+D10*
+X112370000Y-127925000D02*
+X91370000Y-127925000D01*
+X91370000Y-135925000D01*
+X50370000Y-135925000D01*
+X50370000Y-66925000D01*
+X112370000Y-66925000D01*
+X112370000Y-127925000D01*
+M02*
