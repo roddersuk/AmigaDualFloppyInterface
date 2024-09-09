@@ -3,7 +3,7 @@
 
 ![Interface PCB](/Docs/Board.png)
 
-I have recently aquired an Amiga 500 and wanted to expand its capability by adding a Gotek drive but didn't want to lose the internal floppy drive. I soon came across some of the restrictions of the A500 design which basically meant that if you have the Gotek as the primary, bootable drive the internal floppy drive (df1) wouldn't work. I could have course have gone down the external floppy route but I didn't want all that stuff hanging out the back of the Amiga.
+I have recently acquired an Amiga 500 and wanted to expand its capability by adding a Gotek drive but didn't want to lose the internal floppy drive. I soon came across some of the restrictions of the A500 design which basically meant that if you have the Gotek as the primary, bootable drive the internal floppy drive (df1) wouldn't work. I could have course have gone down the external floppy route but I didn't want all that stuff hanging out the back of the Amiga.
 
 So I started this project with these objectives:
 - To support two floppy drives internally to the A500
