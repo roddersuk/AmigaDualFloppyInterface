@@ -9,7 +9,7 @@ So I started this project with these objectives:
 - To support two floppy drives internally to the A500
 - To be able to switch which one is bootable
 - For the second drive to always be available
-- Not to require any unreversible change to the A500
+- Not to require any irreversible change to the A500
 - Not to have any connections out to the external drive port
 
 There are a number of issues to overcome to achieve these objectives:
