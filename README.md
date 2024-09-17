@@ -1,6 +1,7 @@
 # AmigaDualFloppyInterface
 **Amiga 500 6A Dual Internal Floppy Drive Interface**
-Not ready for release yet
+
+!!! Not ready for release yet!!!
 
 ![Interface PCB](/Docs/AmigaDualFloppyInterfaceBoard.png)
 
