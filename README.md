@@ -20,7 +20,7 @@ There are a number of issues to overcome to achieve these objectives:
 3. A drive identification has to be generated for the second drive
 4. Some means of switching between the drives needs to be devised
 
-The design was created using KiCad, the project files are in the KiCad folder. Production ready files are provided in the KiCad/Gerber folder and PDF versions of the schematic and PCB are provided in the Docs folder.
+The design was created using KiCad, the project files are in the KiCad folder. Production ready files are provided in the KiCad/Gerber folder and PDF versions of the schematic, PCB and BOM are provided in the Docs folder.
 
 For more information see the User Guide in the Docs folder.
 
