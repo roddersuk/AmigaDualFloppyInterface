@@ -1,6 +1,8 @@
 # AmigaDualFloppyInterface
 **Amiga 500 6A Dual Internal Floppy Drive Interface**
 
+***N.B. I have only tested that this board works with an Issue 6A motherboard***
+
 ![Interface PCB](/Docs/AmigaDualFloppyInterfaceBoard.png)
 ![Interface PCB](/Docs/AmigaDualFloppyInterfaceBoardBack.png)
 
